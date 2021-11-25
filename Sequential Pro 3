@@ -1,0 +1,125 @@
+NAME:Pro3
+OUT:USB
+CHANNEL:15
+0:Bank SelCourse
+1:Mod Wheel
+2:Breath Control
+3:BPM
+4:Foot Control
+5:Glide Time
+6:DataEntry MSB
+7:Midi Volume
+8:AudioIn Volume
+9:AudioIn Gain
+11:Expression
+12:Voice Volume
+13:Para On/Off
+14:Slider 1
+16:FX1 On/Off
+17:FX1 Type
+18:FX1 Mix
+19:FX1 Param1
+20:FX1 Param2
+21:FX1 Param3
+22:FX1 Sync On/Off
+23:FX1 SyncRate
+24:FX2 On/Off
+25:FX2 Type
+26:FX2 Mix
+27:FX2 Param1
+28:FX2 Param2
+29:FX2 Param3
+30:FX2 Sync On/Off
+31:FX2 SyncRate
+32:Bank SelFine
+33:FLTR Cutoff
+34:FLTR Resonance
+35:FLTR KeyTrack
+36:FLTR Drive
+37:FLTR Type
+38:DataEntry LSB
+40:VCA EnvAmt
+41:VCA EnvVel On/Off
+42:VCA EnvDel
+43:VCA EnvAtk
+44:VCA EnvDec
+45:VCA EnvSus
+46:VCA EnvRel
+47:FLTR EnvAmt
+48:FLTR EnvVel On/Off
+49:FLTR EnvDel
+50:FLTR EnvAtk
+51:FLTR EnvDec
+52:FLTR EnvSus
+53:FLTR EnvRel
+54:OSC1 GldRte
+55:OSC2 GldRte
+56:OSC3 GldRte
+57:Swing
+58:ARP On/Off
+59:ARP Mode
+60:ARP Range
+61:ARP Relatch On/Off
+62:Clock Divide
+63:ARP Repeats
+64:Sustain Pedal
+65:OSC Glide On/Off
+66:OSC1 Octave
+67:OSC1 F.Freq
+68:OSC1 Level
+69:OSC1 Shape
+70:OSC1 ShpMod
+71:OSC1 Sync On/Off
+72:OSC1 Slop
+73:Noise Level
+74:Brightness
+75:OSC2 Octave
+76:OSC2 F.Freq
+77:OSC2 Level
+78:OSC2 Shape
+79:OSC2 ShpMod
+80:OSC2 Sync On/Off
+81:OSC2 Slop
+82:OSC3 Octave
+83:OSC3 F.Freq
+84:OSC3 Level
+85:OSC3 Shape
+86:OSC3 ShpMod
+87:OSC3 LFO On/Off
+88:OSC3 Slop
+89:FDBK Amount
+90:FDBK Tuning
+91:FDBK DistAmt
+92:Grunge On/Off
+93:ExtIn EnvAtk
+94:ExtIn EnvRel
+95:ExtIn GainThresh
+96:Data Inc
+97:Data Dec
+98:NRPN Param LSB
+99:NRPN Param MSB
+100:RPN Param LSB
+101:RPN Param MSB
+102:Ladder ResComp
+103:StVarFltr Mode
+104:StVarFltr
+105:LFO1 Freq
+106:LFO1 Amt
+107:LFO1 Shape
+108:LFO1 Sync On/Off
+109:LFO2 Freq
+110:LFO2 Amt
+111:LFO2 Shape
+112:LFO2 Sync On/Off
+113:LFO3 Freq
+114:LFO3 Amt
+115:LFO3 Shape
+116:LFO3 Sync On/Off
+120:All Sound Off
+121:Reset Controllers
+122:Local On/Off
+123:All Notes Off
+124:Omni Off
+125:Omni On
+126:Mono On
+127:Poly On
