@@ -1,6 +1,6 @@
 # SquarpPyramid
 
-Squarp Pyramid definition files.
+Squarp Pyramid definition files I use.
 
 To use the files see https://squarp.net/pyramid/manual/definitionfiles
 
