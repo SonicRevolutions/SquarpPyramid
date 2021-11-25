@@ -1,0 +1,3 @@
+NAME:Nord
+OUT:A
+CHANNEL:13
