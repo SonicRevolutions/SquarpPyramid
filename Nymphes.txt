@@ -46,9 +46,9 @@ CHANNEL:6
 47:Rev Mix
 50:MS Sel
 51:MS OSC Wave
-52:MS OSC Lev
-53:MS Sub Lev
-54:MS Noise Lev
+52:MS OSC Lvl
+53:MS Sub Lvl
+54:MS Noise Lvl
 55:MS LFO Pitch
 56:MS PWM
 57:MS Glide
