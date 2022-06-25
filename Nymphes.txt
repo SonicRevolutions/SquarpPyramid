@@ -1,0 +1,81 @@
+NAME:Nymphes
+OUT:B
+CHANNEL:6
+1:Modwheel
+3:HPF Cut
+4:LPF Cut
+5:Glide
+6:LPF Trk
+7:AMP Level
+8:Resonance
+9:LPF EG Dpt
+10:LPF LFO Dpt
+11:PulseWidth
+12:OSC Wave
+13:OSC Lvl
+14:Sub Lvl
+15:Noise Lvl
+16:LFO Pitch Dpt
+17:EG Pitch Dpt
+18:Detune
+19:Chord Sel
+20:Fil Att
+21:Fil Dec
+22:Fil Sus
+23:Fil Rel
+24:AMP Att
+25:AMP Dec
+26:AMP Sus
+27:AMP Rel
+30:Play MODE
+31:LFO1 Rate
+32:LFO1 Wave
+33:LFO1 Delay
+34:LFO1 Fade
+35:LFO1 Type
+36:LFO1 SYNC
+37:LFO2 RDep
+38:LFO2 Wave
+39:LFO2 Delay
+40:LFO2 Fade
+41:LFO2 TYPE
+42:LFO2 SYNC
+44:Rev Size
+45:Rev Dec
+46:Rev Fil
+47:Rev Mix
+50:MS Sel
+51:MS OSC Wave
+52:MS OSC Lev
+53:MS Sub Lev
+54:MS Noise Lev
+55:MS LFO Pitch
+56:MS PWM
+57:MS Glide
+58:MS Detune
+59:MS Chrd Sel
+60:MS EG Pitch
+61:MS LPF Cut
+62:MS Reso
+63:MS LPF EG
+64:Sus Ped
+65:MS HPF Cut
+66:MS LPF Trk
+67:MS LPF LFO
+68:Legato
+69:MS Fil Att
+70:MS Fil Dec
+71:MS Fil Sus
+72:MS Fil Rel
+73:MS AMP Att
+74:MS AMP Dec
+75:MS AMP Sus
+76:MS AMP Rel
+77:MS LFO1 Rat
+78:MS LFO1 Wav
+79:MS LFO1 Del
+80:MS LFO1 Fad
+81:MS LFO2 Rat
+82:MS LFO2 Wav
+83:MS LFO2 Del
+84:MS LFO2 Fad
