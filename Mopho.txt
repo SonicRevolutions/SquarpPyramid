@@ -1,0 +1,44 @@
+NAME:Mopho
+OUT:A
+CHANNEL:2
+14:BPM
+15:Clk Dev
+20:O1 Frq
+21:O1 Frq F
+22:O1 Shape
+23:O1 Glide
+24:O2 Frq
+25:O2 Frq F
+26:O2 Shape
+27:O2 Glide
+28:Osc Mix
+29:Noise Lev
+30:O1 Sub
+31:O2 Sub
+75:A Sus
+76:A Rel
+77:E3 Sus
+78:E3 Rel
+85:E3 Dest
+86:E3 Amt
+87:E3 Vel Amt
+88:E3 Dly
+89:E3 Att
+90:E3 Dec
+102:F Frq
+103:F Res
+104:F Key Amt
+105:F Aud Mod
+106:F E Amt
+107:F E Vel Amt
+108:F Dly
+109:F Att
+110:F Dec
+111:F Sus
+112:F Res
+113:A Lev
+115:A Env Amt
+116:A Vel Amt
+117:A Dly
+118:A Att
+119:A Dec
