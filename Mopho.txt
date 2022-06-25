@@ -2,7 +2,7 @@ NAME:Mopho
 OUT:A
 CHANNEL:2
 14:BPM
-15:Clk Dev
+15:Clk Div
 20:O1 Frq
 21:O1 Frq F
 22:O1 Shape
