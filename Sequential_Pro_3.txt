@@ -32,11 +32,11 @@ CHANNEL:15
 30:FX2 Sync On/Off
 31:FX2 SyncRate
 32:Bank SelFine
-33:FLTR Cutoff
-34:FLTR Resonance
-35:FLTR KeyTrack
-36:FLTR Drive
-37:FLTR Type
+33:Cutoff
+34:Resonance
+35:Fil track
+36:Fil Drive
+37:Fil Type
 38:DataEntry LSB
 40:VCA EnvAmt
 41:VCA EnvVel On/Off
@@ -45,13 +45,13 @@ CHANNEL:15
 44:VCA EnvDec
 45:VCA EnvSus
 46:VCA EnvRel
-47:FLTR EnvAmt
-48:FLTR EnvVel On/Off
-49:FLTR EnvDel
-50:FLTR EnvAtk
-51:FLTR EnvDec
-52:FLTR EnvSus
-53:FLTR EnvRel
+47:Fil EnvAmt
+48:Fil EnvVel On/Off
+49:Fil EnvDel
+50:Fil EnvAtk
+51:Fil EnvDec
+52:Fil EnvSus
+53:Fil EnvRel
 54:OSC1 GldRte
 55:OSC2 GldRte
 56:OSC3 GldRte
